@@ -1,5 +1,7 @@
 # DJI3D
 
+![Poetry Build Suite](https://github.com/Ewpratten/dji3d/workflows/Poetry%20Build%20Suite/badge.svg)
+
 DJI3D is a tool for graphing 3d positional data extracted from DJI drone telemetry. Many DJI drones have the option to save basic flight telemetry data inside subtitle tracks on recorded videos. This script will extract this data and export it in one of three formats:
 
  - 3D graph
