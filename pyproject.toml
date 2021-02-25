@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "dji3d"
-version = "0.1.0"
+version = "1.0.0"
 description = "DJI3D is a tool for graphing 3d positional data extracted from DJI drone telemetry"
 authors = ["Evan Pratten <ewpratten@gmail.com>"]
 license = "GPLv3"
